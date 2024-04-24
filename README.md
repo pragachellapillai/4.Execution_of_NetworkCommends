@@ -25,7 +25,9 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
-## Program
+
+##  Program
+
 
 CLIENT:
 ```
@@ -63,11 +65,13 @@ print(result,unans)
 ## Output
 
 CLIENT:
+
+
 ![Screenshot 2024-04-24 205214](https://github.com/pragachellapillai/4.Execution_of_NetworkCommends/assets/148254952/5a2b4417-2e82-4c51-9d46-be7c40e8cec9)
 
 
-
 SERVER:
+
 ![Screenshot 2024-04-24 205224](https://github.com/pragachellapillai/4.Execution_of_NetworkCommends/assets/148254952/c0416350-a96a-4c24-af10-534774eb8f05)
 
 
